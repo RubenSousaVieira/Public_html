@@ -1,0 +1,32 @@
+CHAT BOT (FASE DE TESTES):
+--------------------------------------------------------------------------
+Site: https://app.hubspot.com/
+Ponto de situação: A FUNCIONAR 100% BEM AUTOMATIZADO 
+Endereço de E-mail: po2318@alunos.epbjc.pt
+Senha: po2318_EPBJC
+Nome: Rúben / Sobrenome: Vieira
+
+(support-1@144197934.eu1.r.hubspot-inbox.com)
+E-mail hospedado (fallback da HubSpot)
+
+Instalar o código de rastreamento no seu site
+Coloque o código antes do fim da tag <body> em qualquer página em que você deseja ativar a HubSpot:
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/144197934.js"></script>
+<!-- End of HubSpot Embed Code -->
+
+--------------------------------------------------------------------------
+Site: https://www.tawk.to/
+Ponto de situação:
+Name: Rúben Vieira
+Endereço de E-mail: po2318@alunos.epbjc.pt
+Senha: psb212318_EPBJC*
+
+--------------------------------------------------------------------------
+Site: https://www.jivochat.com.br/?partner_id=25626
+Ponto de situação:
+Endereço de E-mail: po2318@alunos.epbjc.pt
+Senha: po2318_EPBJC
+
+<script src="//code.jivosite.com/widget/hgZEWHFq6f" async></script>

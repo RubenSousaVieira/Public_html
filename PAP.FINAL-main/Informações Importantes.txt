@@ -1,0 +1,83 @@
+TO DO:
+- mudar o nome dos ficheiros OK
+- tarefas.php > encomendas.php OK
+- tarefa_ver.php > encomenda_ver.php OK
+- tarefa_remover > OK
+- remover ficheiro tarefa_estado OK
+- alterar os links do menu que estão no Header OK
+- 
+
+
+
+
+
+UTILIZADORES E SENHAS ESCONDIDAS:
+
+- admin : admin ($2y$10$dpjHpnWjhsPonkSUNXmu4OdS8ChtOk268bF./tH86JJuBiYd79sW.)
+- psb212318 : psb212318 ($2y$10$vAiT6pzqg1O1CGSljqYnLOeROSkT.QO/uLlJMwbEw4aOKS0156eEe)
+- teste02: rub19vieira_2004 ($2y$15$73B0F.sf8XUd/qfq765GY.7vgsrGlAOidsAOIbpztUR3f5EPUCAVq)
+
+
+******************************************************************************
+SITES E APLICAÇÕES USADAS:
+- github: RubenSousaVieira/PAP.FINAL
+- xampp v3.3.0 [Compiled: Apr 6th 2021]: COMPUTADOR DE CASA
+------------------------------------------------------------
+EM FASE DE TESTES
+- AwardSpace: supplyspackage.atwebpages.com
+- https://cp1.awardspace.net/
+  - Client ID: 4441326
+    - Email: po2318@alunos.epbjc.pt
+    - Senha: Ratinhojunior21092004_
+
+  - nome da base de dados: 4441326_supplyspackage
+  - utilizador: 4441326_supplyspackage
+  - servidor: fdb1034.awardspace.net
+  - porta: 3306
+  - palavra pass db: z:Axw+w#0k@mN{w5
+------------------------------------------------------------
+- InfinityFree: 
+  - User: if0_35955496 
+  - Password: if0_35955496
+    - Website IP: 185.27.134.179
+
+  - FTP Details for if0_35955496:
+    - FTP USERNAME: if0_35955496
+    - FTP PORT (OPTIONAL): 21
+    - FTP PASSWORD: YeuVUd9ZNuzb 
+    - FTP HOSTNAME: ftpupload.net
+  - Email address: po2318@alunos.epbjc.pt
+  - Palavra pass IN F: Ratinhojunior21092004 / po2318EPBJC
+    - site: supplyspackage.infinityfreeapp.com
+
+Base de Dados:
+  - MYSQL HOSTNAME: sql304.infinityfree.com
+  - MYSQL USERNAME: if0_35955496
+  - MYSQL PASSWORD: YeuVUd9ZNuzb
+  - MYSQL PORT (OPTIONAL): 3306
+  - MYSQL DATABASE NAME: if0_35955496_XXX
+
+------------------------------------------------------------
+EM FASE DE TESTES 
+https://www.000webhost.com/
+
+**PONTO DE SITUAÇÃO: Funcionou mas com bugs na base de dados e botões**
+
+- Login:
+  - Email: ruben.sousa.vieira2004@gmail.com
+  - Senha: ******
+
+- Website:
+  - supplypackage.000webhostapp.com
+  - Senha: po2318EPBJC_
+
+- PHPMYADMIN:
+  - Name: supplyspackage /ou/ id21880411_supplyspackage
+  - Username: root /ou/ id21880411_root
+  - Password: po2318EPBJC_ 
+    - Base de dados: id21880411_supplyspackage
+
+
+------------------------------------------------------------
+
+

@@ -1,0 +1,30 @@
+/*
+yRepair
+Custom CSS
+*/
+
+body {
+    background-image: url("img/repair.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.firma-ara {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+.caixa-pesquisa {
+    background: rgba(99, 99, 99, 0.4);
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
